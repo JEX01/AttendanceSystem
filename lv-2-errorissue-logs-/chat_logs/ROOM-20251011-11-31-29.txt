@@ -1,3 +1,0 @@
-Room created: ROOM at 20251011-11-31-29
-Server: server
-[2025-10-11 11:31:59] ROOM CLOSED
