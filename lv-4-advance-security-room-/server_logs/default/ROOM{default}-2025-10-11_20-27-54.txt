@@ -1,6 +1,0 @@
-[2025-10-11 20:28:11] {jeet} ('127.0.0.1', 54074) :- joined the room
-[2025-10-11 20:28:11] {jeet} ('127.0.0.1', 54074) :- disconnected
-[2025-10-11 20:28:18] {('127.0.0.1', 54080)} ('127.0.0.1', 54080) :- AUTH ERROR: [WinError 10054] An existing connection was forcibly closed by the remote host
-[2025-10-11 20:28:25] {jeet} ('127.0.0.1', 54104) :- joined the room
-[2025-10-11 20:28:25] Server :- Failed to broadcast: [WinError 10038] An operation was attempted on something that is not a socket
-[2025-10-11 20:28:25] {jeet} ('127.0.0.1', 54104) :- disconnected
