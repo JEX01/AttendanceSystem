@@ -1,0 +1,5 @@
+opencv-python
+face-recognition
+numpy
+pillow
+reportlab
